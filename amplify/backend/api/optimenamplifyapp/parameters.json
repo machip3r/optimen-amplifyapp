@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "optimenamplifyapp",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}

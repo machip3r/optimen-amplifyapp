@@ -1,0 +1,14 @@
+{
+  "resourceName": "s34f6600ad",
+  "policyUUID": "4f6600ad",
+  "bucketName": "optimenamplifyappc564e1b51e47403ab2f98956d45fb7",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
